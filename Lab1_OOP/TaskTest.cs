@@ -1,6 +1,8 @@
 ﻿using System;
 namespace Lab1_OOP
-{
+{/// <summary>
+/// 
+/// </summary>
     class TaskTest : Task
     {
         public List<string> answer_options;//варіанти відповідей на тест

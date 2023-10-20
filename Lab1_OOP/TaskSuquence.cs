@@ -1,6 +1,6 @@
 ﻿using System;
 namespace Lab1_OOP
-{
+{//
 	public class TaskSuquence:Task
 	{
         public List<string> list_quastion;
