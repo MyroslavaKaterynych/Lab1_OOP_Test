@@ -1,0 +1,29 @@
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/bin/Debug/net7.0/Lab1_OOP
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/bin/Debug/net7.0/Lab1_OOP.deps.json
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/bin/Debug/net7.0/Lab1_OOP.runtimeconfig.json
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/bin/Debug/net7.0/Lab1_OOP.dll
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/bin/Debug/net7.0/Lab1_OOP.pdb
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/Lab1_OOP.csproj.AssemblyReference.cache
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/Lab1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/Lab1_OOP.AssemblyInfoInputs.cache
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/Lab1_OOP.AssemblyInfo.cs
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/Lab1_OOP.csproj.CoreCompileInputs.cache
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/Lab1_OOP.dll
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/refint/Lab1_OOP.dll
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/Lab1_OOP.pdb
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/Lab1_OOP.genruntimeconfig.cache
+/Users/myroslava/Projects/Lab1_OOP/Lab1_OOP/obj/Debug/net7.0/ref/Lab1_OOP.dll
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\bin\Debug\net7.0\Lab1_OOP.exe
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\bin\Debug\net7.0\Lab1_OOP.deps.json
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\bin\Debug\net7.0\Lab1_OOP.runtimeconfig.json
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\bin\Debug\net7.0\Lab1_OOP.dll
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\bin\Debug\net7.0\Lab1_OOP.pdb
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\Lab1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\Lab1_OOP.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\Lab1_OOP.AssemblyInfo.cs
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\Lab1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\Lab1_OOP.dll
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\refint\Lab1_OOP.dll
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\Lab1_OOP.pdb
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\Lab1_OOP.genruntimeconfig.cache
+C:\Users\PC\Downloads\Telegram Desktop\Архив\Lab1_OOP\obj\Debug\net7.0\ref\Lab1_OOP.dll
