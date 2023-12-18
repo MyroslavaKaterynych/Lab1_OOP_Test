@@ -14,7 +14,7 @@ namespace Lab1_OOP.Controllers
 
             List<Task> sortedTasks = model_tasks.tasks.OrderBy(task => task.assessment).ToList();//Сортируем по возрастанию бала
 			List<double> results = ViewStartTest.work_test(sortedTasks);//Запускаем вью с вопросами, получаем в ответ список баллов
-			ViewStartTest.show_results(sortedTasks, results);//Віводим результаты в вьюшке
+			ViewStartTest.show_results(sortedTasks, results);//Выводим результаты в вьюшке
 		}
 		
 	}
